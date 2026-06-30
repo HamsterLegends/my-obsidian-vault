@@ -1,0 +1,7 @@
+プロセスの状態を見る == Process Status == psコマンド
+
+ps -elf
+POSIX style 	- プロセスの家系図を知る エルフの家系図。
+
+ps aux
+BSD style	- パフォーマンス調査
